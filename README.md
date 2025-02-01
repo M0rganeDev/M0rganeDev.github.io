@@ -11,6 +11,10 @@ in [+layout.svelte](https://github.com/M0rganeDev/M0rganeDev.github.io/blob/momm
 
 then, just push your stuff and execute deploy.sh
 
+# Notes
+
+This start page use the same CSS and fonts as my main website, [morgane.dev](https://morgane.dev)
+
 # Images
 
 ![screenshot of the website](https://morgane.dev/uploads/8uspm7r8p3.png)
