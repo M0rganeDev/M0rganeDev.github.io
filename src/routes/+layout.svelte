@@ -3,6 +3,8 @@
     import ListContainer from "$lib/components/ListContainer.svelte";
     import Link from "$lib/components/Link.svelte";
     import SearchBar from "$lib/components/SearchBar.svelte";
+
+	export const prerender = true;
 </script>
 
 <style>
