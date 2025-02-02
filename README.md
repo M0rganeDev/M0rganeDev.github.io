@@ -1,24 +1,44 @@
-# Custom start page
+# Custom Start Page 🚀
 
-it's just a static svelte page.
-nothing to say about it.
+An elegant and minimalist homepage for your browser, built with SvelteKit. This page allows you to quickly access your favorite websites and perform efficient searches.
 
-# Customise
+## ✨ Features
 
-fork the repository as (your exact github username, case sensitive).github.io
+- 🔍 Integrated search bar using Qwant
+- 📦 Quick Nix package search with the `!nx` command
+- 🎯 Customizable quick links organized by categories
+- 🎨 Clean design inspired by [morgane.dev](https://morgane.dev)
 
-in [+layout.svelte](https://github.com/M0rganeDev/M0rganeDev.github.io/blob/mommy/src/routes/%2Blayout.svelte), remove links you dont use, and add some that you do
+## 🚀 Installation
 
-then, just push your stuff and execute deploy.sh
+1. Fork this repository and rename it exactly as: `<your-github-username>.github.io`
+   > ⚠️ The name is case-sensitive and must exactly match your GitHub username
 
-# Notes
+2. Customize your links in the `src/routes/+layout.svelte` file
+   - Remove links you don't use
+   - Add your own links
+   - Organize them according to your preferred categories
 
-This start page use the same CSS and fonts as my main website, [morgane.dev](https://morgane.dev)
+3. Deploy your page:
+   ```bash
+   ./deploy.sh
+   ```
 
-The search bar was stolen from [Lucas Oliveira on codepen.io](https://codepen.io/lucasyem/pen/ZEEYKdj)
+## 🔧 Browser Configuration
 
-To set your custom start page, you can use [New Tab Override](https://addons.mozilla.org/de/firefox/addon/new-tab-override/) on firefox
+To use this page as a start page in Firefox:
+1. Install the [New Tab Override](https://addons.mozilla.org/de/firefox/addon/new-tab-override/) extension
+2. Configure the URL to point to your deployed version
 
-# Images
+## 📸 Preview
 
-![screenshot of the website](https://morgane.dev/uploads/8uspm7r8p3.png)
+![Website screenshot](https://morgane.dev/uploads/8uspm7r8p3.png)
+
+## 🙏 Credits
+
+- Search bar design adapted from [Lucas Oliveira's work on codepen.io](https://codepen.io/lucasyem/pen/ZEEYKdj)
+- Style and fonts inspired by [morgane.dev](https://morgane.dev)
+
+## 📝 License
+
+This project is open source and can be freely modified for your personal use.
