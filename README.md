@@ -37,8 +37,10 @@ To use this page as a start page in Firefox:
 ## 🙏 Credits
 
 - Search bar design adapted from [Lucas Oliveira's work on codepen.io](https://codepen.io/lucasyem/pen/ZEEYKdj)
-- Style and fonts inspired by [morgane.dev](https://morgane.dev)
+- Style and fonts taken from my website, [morgane.dev](https://morgane.dev)
 
 ## 📝 License
 
-This project is open source and can be freely modified for your personal use.
+This project is distributed under the Unlicensed license, which is basically public domain (for juridictions that dont recognise public domain).
+
+in short, do whatever you want with the code, modify it, sell it, I dont care.
