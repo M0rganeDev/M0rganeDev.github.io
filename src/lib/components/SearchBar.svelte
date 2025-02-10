@@ -94,7 +94,8 @@
                on:keydown={handleKeydown}
                class="form__field"
                placeholder=""
-               required />
+               required
+			   autofocus />
         <label for="name" class="form__label">Search on qwant.com</label>
     </div>
 </center>

@@ -27,11 +27,13 @@
     <Link name="Render" url="https://dashboard.render.com/"/>
     <Link name="AppWrite" url="https://cloud.appwrite.io/console/"/>
     <Link name="URSSAF" url="https://www.autoentrepreneur.urssaf.fr/services/espace-personnel"/>
+    <Link name="Gmail" url="https://mail.google.com/mail/u/0/#inbox" />
 </ListContainer>
 
 <ListContainer name="Media">
     <Link name="Youtube" url="https://youtube.com"/>
     <Link name="Reddit" url="https://reddit.com"/>
+    <Link name="BlueSky" url="https://bsky.app/profile/morgane.dev"/>
 </ListContainer>
 
 <ListContainer name="Misc">
